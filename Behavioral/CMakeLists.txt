@@ -1,1 +1,2 @@
 add_subdirectory(Observer)
+add_subdirectory(ChainOfResponsibility)
