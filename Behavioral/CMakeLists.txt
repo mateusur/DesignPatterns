@@ -1,3 +1,4 @@
 add_subdirectory(Observer)
 add_subdirectory(ChainOfResponsibility)
 add_subdirectory(Visitor)
+add_subdirectory(CommandPattern)
