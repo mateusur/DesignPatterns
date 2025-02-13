@@ -1,0 +1,2 @@
+add_executable(adapterClass classAdapter.cpp)
+add_executable(adapterObject objectAdapter.cpp)
