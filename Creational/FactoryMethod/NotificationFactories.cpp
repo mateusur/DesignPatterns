@@ -4,7 +4,7 @@
 
 void NotificationFactory::notify(const std::string& message){
     Notification* notification = createNotification();
-    notification -> send(message);
+    notification -> send(std::string_view(message));
     delete notification;
 }
 
