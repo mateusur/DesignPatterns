@@ -1,1 +1,1 @@
-add_subdirectory(GlobalParameters)
+add_subdirectory(ServiceLocator)
