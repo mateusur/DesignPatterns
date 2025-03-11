@@ -1,1 +1,2 @@
 add_subdirectory(ServiceLocator)
+add_subdirectory(DependencyInjection)
